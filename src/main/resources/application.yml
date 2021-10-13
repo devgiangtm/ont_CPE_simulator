@@ -1,0 +1,7 @@
+server:
+  port: 8991
+alarm:
+  number: 100
+device:
+  number: 500
+
